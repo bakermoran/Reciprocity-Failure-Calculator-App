@@ -1,0 +1,74 @@
+[
+  {
+    "brand": "Ilford",
+    "stock": "SFX",
+    "factor": 1.43,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "PanF+",
+    "factor": 1.33,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "D100",
+    "factor": 1.26,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "D400",
+    "factor": 1.41,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "D3200",
+    "factor": 1.33,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "FP4+",
+    "factor": 1.26,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "HP5+",
+    "factor": 1.31,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "XP2",
+    "factor": 1.31,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "Ortho+",
+    "factor": 1.25,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "K100",
+    "factor": 1.26,
+    "starts_at": 1
+  },
+  {
+    "brand": "Ilford",
+    "stock": "K400",
+    "factor": 1.31,
+    "starts_at": 1
+  },
+  {
+    "brand": "Kodak",
+    "stock": "Portra 400",
+    "factor": 1.31,
+    "starts_at": 1
+  }
+]
