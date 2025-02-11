@@ -14,5 +14,5 @@ Exposed_time = Metered_time ^ factor
 
 ### References
 
-[Ilford](https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf)
-[Kodak](https://125px.com/docs/techpubs/kodak/e31-2002_07.pdf)
+- [Ilford](https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf)
+- [Kodak](https://125px.com/docs/techpubs/kodak/e31-2002_07.pdf)
